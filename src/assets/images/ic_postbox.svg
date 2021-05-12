@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>ic_postbox</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_postbox" fill-rule="nonzero">
+            <g>
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                <path d="M18.9832825,5.27597187 L9.8817832,10.5300517 L1.00716465,5.40493565 C1.09314051,4.06275707 2.20843837,3 3.57211092,3 L16.4278891,3 C17.7485737,3 18.8376012,3.99349874 18.9832825,5.27597187 L18.9832825,5.27597187 Z M19,7.15788775 L19,15.1560303 C19,16.57702 17.8488789,17.7281412 16.4278891,17.7281412 L3.57211092,17.7281412 C2.15112114,17.7281412 1,16.57702 1,15.1560303 L1,7.29401619 L9.47578612,12.1874751 C9.76714873,12.3546504 10.1182168,12.3236036 10.3713679,12.1373225 C10.383309,12.1325461 10.3928619,12.1253815 10.404803,12.1182168 L19,7.15788775 Z" id="形状" fill="#ADB5BD"></path>
+            </g>
+        </g>
+    </g>
+</svg>

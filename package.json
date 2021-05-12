@@ -1,0 +1,71 @@
+{
+  "name": "normcore_oa",
+  "version": "1.0.0",
+  "description": "normcore oa system",
+  "author": "Luna Shu <luna_yj@hotmail.com>",
+  "private": true,
+  "scripts": {
+    "serve": "npx vue-cli-service serve",
+    "build": "npx vue-cli-service build",
+    "lint": "npx vue-cli-service lint"
+  },
+  "dependencies": {
+    "@sentry/browser": "^4.4.1",
+    "axios": "^0.17.1",
+    "deepmerge": "^4.0.0",
+    "echarts": "^4.1.0",
+    "element-ui": "^2.9.1",
+    "fundebug-javascript": "^1.2.3",
+    "iview": "^2.14.0",
+    "jquery": "^3.3.1",
+    "js-cookie": "^2.2.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.21.0",
+    "qs": "latest",
+    "raven-js": "^3.27.0",
+    "vue": "^2.5.2",
+    "vue-analytics": "^5.22.1",
+    "vue-concise-slider": "^2.4.8",
+    "vue-cookie": "^1.1.4",
+    "vue-cropper": "^0.2.9",
+    "vue-full-calendar": "^2.1.4",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.0.1",
+    "vueditor": "^0.3.1",
+    "vueditor-fork": "^0.3.13",
+    "vuejs2-datatable": "^1.0.5",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.4.0",
+    "@vue/cli-plugin-eslint": "^3.4.0",
+    "@vue/cli-service": "^3.4.0",
+    "autoprefixer": "^9.5.1",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-vue-jsx": "^3.7.0",
+    "eslint": "^5.8.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-html": "^5.0.3",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "postcss-import": "^12.0.1",
+    "postcss-url": "^8.0.0",
+    "typescript": "^3.4.3",
+    "vue-template-compiler": "^2.5.21",
+    "webpack": "^4.30.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

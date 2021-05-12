@@ -1,0 +1,12 @@
+.DS_Store
+
+# ignore node packages
+node_modules/
+
+# ignore build file
+dist/
+
+# ignore git file
+.git
+
+.idea

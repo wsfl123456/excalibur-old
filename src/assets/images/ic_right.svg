@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_right">
+            <g>
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="11.9882927" height="11.9882927"></rect>
+                <polygon id="路径" fill="#999999" points="0.00117073171 10.355122 11.9894634 5.99531707 3.27102439 5.99531707"></polygon>
+                <polygon id="路径" fill="#CDCDCD" points="3.27102439 5.99531707 11.9894634 5.99531707 0.00117073171 1.63668293"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

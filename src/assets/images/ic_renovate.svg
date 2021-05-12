@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>ic_renovate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_renovate" fill-rule="nonzero">
+            <g>
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M19.846875,14.2453125 C19.6546875,18.2789062 16.2960937,21.4921875 12.1828125,21.4921875 C7.9453125,21.4921875 4.509375,18.084375 4.509375,13.8773438 C4.509375,9.796875 7.74609375,6.4640625 11.8101563,6.271875 L11.8101563,9.89296875 L19.8492188,5.54296875 L11.8125,0.46875 L11.8125,4.09453125 C6.53671875,4.2890625 2.3203125,8.59453125 2.3203125,13.8773438 C2.3203125,19.284375 6.73828125,23.6671875 12.1851562,23.6671875 C17.5101562,23.6671875 21.8484375,19.48125 22.0429688,14.2453125 L19.846875,14.2453125 Z" id="路径" fill="#2D8EF8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

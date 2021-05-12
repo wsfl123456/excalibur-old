@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="44px" viewBox="0 0 46 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>crown_gold</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crown_gold">
+            <g transform="translate(23.200000, 21.800000) rotate(32.000000) translate(-23.200000, -21.800000) translate(6.000000, 7.000000)">
+                <polygon id="Path-4" fill-opacity="0.944123641" fill="#FBB500" points="13.1295902 4.76691568 15.6963679 28.8816558 33.4331198 17.7985031"></polygon>
+                <polygon id="Path-2" fill-opacity="0.7" fill="#FFC700" points="2.86723319 21.556318 33.3501838 17.6657778 15.6134319 28.7489304"></polygon>
+                <polygon id="Path-3" fill-opacity="0.7" fill="#FFC700" points="32.2520554 3.66631453 15.6134319 28.7489304 33.3501838 17.6657778"></polygon>
+                <circle id="Oval-5" fill="#F6AE0D" transform="translate(12.000000, 3.200000) rotate(-32.000000) translate(-12.000000, -3.200000) " cx="12" cy="3.2" r="1.6"></circle>
+                <circle id="Oval-5-Copy" fill="#F6AE0D" cx="32.8" cy="1.6" r="1.6"></circle>
+                <circle id="Oval-5-Copy-2" fill="#F6AE0D" cx="1.6" cy="21.6" r="1.6"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
